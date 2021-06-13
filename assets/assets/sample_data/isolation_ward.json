@@ -1,0 +1,154 @@
+[
+    {
+        "districtId": 15,
+        "name": "Khách Sạn Norfolk",
+        "location": [
+            106.69991273296637,
+            10.774951240524334
+        ]
+    },
+    {
+        "districtId": 15,
+        "name": "khách Sạn Alagon City",
+        "location": [
+            106.69435852103352,
+            10.771557152787107
+        ]
+    },
+    {
+        "districtId": 15,
+        "name": "Khách Sạn Huong",
+        "location": [
+            106.70433759165216,
+            10.775089059912784
+        ]
+    },
+    {
+        "districtId": 17,
+        "name": "Khách sạn Novotel Saigon Centre",
+        "location": [
+            106.69588459776449,
+            10.784340509203767
+        ]
+    },
+    {
+        "districtId": 17,
+        "name": "Khách sạn Ibis Saigon South",
+        "location": [
+            106.72324780039771,
+            10.730910613304024
+        ]
+    },
+    {
+        "districtId": 13,
+        "name": "Khách sạn New Milano",
+        "location": [
+            106.70688849574579,
+            10.732143832171174
+        ]
+    },
+    {
+        "districtId": 8,
+        "name": "Khách sạn IBIS Saigon Airport",
+        "location": [
+            106.66619774355861,
+            10.813215482298565
+        ]
+    },
+    {
+        "districtId": 8,
+        "name": "Khách sạn Hưng Hương",
+        "location": [
+            106.65311727728307,
+            10.796473985826486
+        ]
+    },
+    {
+        "districtId": 7,
+        "name": "Khách Sạn 177",
+        "location": [
+            106.77138879961261,
+            10.84720020391682
+        ]
+    },
+    {
+        "districtId": 17,
+        "name": "Khách Sạn Lê Duy",
+        "location": [
+            106.68595219932286,
+            10.775582470463771
+        ]
+    },
+    {
+        "districtId": 19,
+        "name": "Khách Sạn Bát Đạt",
+        "location": [
+            106.66485435748058,
+            10.752493796701751
+        ]
+    },
+    {
+        "districtId": 19,
+        "name": "Mangrove Cần Giờ, Tân Thái Dương",
+        "location": [
+            106.91904841048871,
+            10.387951688531585
+        ]
+    },
+    {
+        "districtId": 1,
+        "name": "Trường Quân Sự TP.HCM",
+        "location": [
+            106.5188918496401,
+            11.069055793849364
+        ]
+    },
+    {
+        "districtId": 23,
+        "name": "Ấp 1, xã Phú Xuân, huyện Nhà Bè",
+        "location": [
+            106.73909992387289,
+            10.678894215662803
+        ]
+    },
+    {
+        "districtId": 23,
+        "name": "Ấp 1, xã Phú Xuân, huyện Nhà Bè",
+        "location": [
+            106.73909992387289,
+            10.678894215662803
+        ]
+    },
+    {
+        "districtId": 13,
+        "name": "Bệnh viện quận 7",
+        "location": [
+            106.72416569734173,
+            10.737531571084421
+        ]
+    },
+    {
+        "districtId": 13,
+        "name": "Trường Quân Sự Quân khu 7",
+        "location": [
+            106.6198014396717,
+            10.854635871666868
+        ]
+    },
+    {
+        "districtId": 7,
+        "name": "Ký túc xá Trường Đại học Quốc Gia TP.HCM",
+        "location": [
+            106.80647332617761,
+            10.878224216632857
+        ]
+    },
+    {
+        "districtId": 2,
+        "name": "Sư đoàn 317",
+        "location": [
+            106.58470012589278,
+            10.895525530081688
+        ]
+    }
+]
