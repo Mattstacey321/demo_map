@@ -1,0 +1,218 @@
+[
+    {
+        "districtId": 9,
+        "name": "Hẻm 854 Thống Nhất, phường 15, Gò Vấp",
+        "location": [
+            106.66554898023605,
+            10.854949489674981
+        ]
+    },
+    {
+        "districtId": 9,
+        "name": "80/59 Dương Quảng Hàm, Phường 5, Gò Vấp",
+        "location": [
+            106.6948192086576,
+            10.825003584699763
+        ]
+    },
+    {
+        "districtId": 17,
+        "name": "Công ty Cổ phần tập đoàn Grove, quận 3",
+        "location": [
+            106.6928061259656,
+            10.782888757578176
+        ]
+    },
+    {
+        "districtId": 17,
+        "name": "Hẻm 287 và 289 Nguyễn Đình Chiểu, phường 5, quận 3",
+        "location": [
+            106.68519921154521,
+            10.773026312734768
+        ]
+    },
+    {
+        "districtId": 17,
+        "name": "Hẻm 404 Nguyễn Đình Chiểu, phường 4, quận 3",
+        "location": [
+            106.68466191437999,
+            10.77418974933586
+        ]
+    },
+    {
+        "districtId": 13,
+        "name": "Công ty JAF, 20C4, đường số 66 khu phố 2, phường Tân Phong, quận 7",
+        "location": [
+            106.70554211617656,
+            10.736660245059365
+        ]
+    },
+    {
+        "districtId": 13,
+        "name": "Ngân hàng VIB số 5 -7 Nguyễn Thị Thập, phường Tân Hưng, quận 7",
+        "location": [
+            106.69971403002722,
+            10.740406423817774
+        ]
+    },
+    {
+        "districtId": 13,
+        "name": "Ngân hàng VIB số 5 -7 Nguyễn Thị Thập, phường Tân Hưng, quận 7",
+        "location": [
+            106.69971403002722,
+            10.740406423817774
+        ]
+    },
+    {
+        "districtId": 13,
+        "name": "Ngân hàng VIB số 5 -7 Nguyễn Thị Thập, phường Tân Hưng, quận 7",
+        "location": [
+            106.69971403002722,
+            10.740406423817774
+        ]
+    },
+    {
+        "districtId": 3,
+        "name": "Trung tâm y khoa Medic (Bệnh viện Hòa Hảo), quận 10",
+        "location": [
+            106.67018336183223,
+            10.76249420637199
+        ]
+    },
+    {
+        "districtId": 3,
+        "name": "Block A2 Chung cư Moscow Tower 19 Tân Thới Nhất 17, quận 12",
+        "location": [
+            106.62468924307029,
+            10.824054081827047
+        ]
+    },
+    {
+        "districtId": 3,
+        "name": "119B Nguyễn Văn Quá, phường Đông Hưng Thuận, quận 12",
+        "location": [
+            106.63419258232085,
+            10.846886242017657
+        ]
+    },
+    {
+        "districtId": 10,
+        "name": "Hẻm 178 Bình Quới, tổ 41, khu phố 4, quận Bình Thạnh",
+        "location": [
+            106.72430710559793,
+            10.818308785212707
+        ]
+    },
+    {
+        "districtId": 10,
+        "name": "Hẻm 57/55 Điện Biên Phủ, phường 5, quận Bình Thạnh",
+        "location": [
+            106.69781730416884,
+            10.805053480120044
+        ]
+    },
+    {
+        "districtId": 2,
+        "name": "Hẻm 83/2A tổ 15, Hưng Lân, Bà Điểm, huyện Hóc Môn",
+        "location": [
+            106.605030741422,
+            10.852162917537138
+        ]
+    },
+    {
+        "districtId": 23,
+        "name": "Hẻm 33 Đào Tông Nguyên, khu phố 7, huyện Nhà Bè",
+        "location": [
+            106.7478121041813,
+            10.683042965198162
+        ]
+    },
+    {
+        "districtId": 4,
+        "name": "30 Đặng Văn Ngữ, phường 10, quận Phú Nhuận",
+        "location": [
+            106.66968464887628,
+            10.795556257654114
+        ]
+    },
+    {
+        "districtId": 4,
+        "name": "57 Đặng Văn Ngữ, phường 13, quận Phú Nhuận",
+        "location": [
+            106.6687683166439,
+            10.793159878459218
+        ]
+    },
+    {
+        "districtId": 4,
+        "name": "Bệnh viện Hoàn Mỹ Sài Gòn, Phú Nhuận",
+        "location": [
+            106.6842375987009,
+            10.800139344417321
+        ]
+    },
+    {
+        "districtId": 8,
+        "name": "Căn hộ dịch vụ hẻm 333 Lê Văn Sỹ, phường 1, quận Tân Bình",
+        "location": [
+            106.66646338198191,
+            10.795455601032149
+        ]
+    },
+    {
+        "districtId": 8,
+        "name": "Nhà trọ 139 Bạch Đằng, quận Tân Bình",
+        "location": [
+            106.67383578802344,
+            10.815651498137424
+        ]
+    },
+    {
+        "districtId": 8,
+        "name": "Cafe Trung Nguyên Legend, 104 Phổ Quang, phường 2, quận Tân Bình",
+        "location": [
+            106.6697544904293,
+            10.80857205146442
+        ]
+    },
+    {
+        "districtId": 22,
+        "name": "Hẻm 25 Nguyễn Minh Châu, Phú Trung, quận Tân Phú",
+        "location": [
+            106.64176053154661,
+            10.782599225325113
+        ]
+    },
+    {
+        "districtId": 22,
+        "name": "Hẻm 710 Lũy Bán Bích, Tân Thành, quận Tân Phú",
+        "location": [
+            106.6381603524259,
+            10.789529074138157
+        ]
+    },
+    {
+        "districtId": 7,
+        "name": "Số 35 đường 59, Thảo Điền, TP Thủ Đức.",
+        "location": [
+            106.72969652613163,
+            10.808725100940372
+        ]
+    },
+    {
+        "districtId": 7,
+        "name": "Số 14E Quốc Hương, Thảo Điền, TP Thủ Đức",
+        "location": [
+            106.73266198593404,
+            10.802504121766892
+        ]
+    },
+    {
+        "districtId": 15,
+        "name": "Starbucks coffee store, 76 Lê Lai, quận 1",
+        "location": [
+            106.69390549350123,
+            10.771128421805198
+        ]
+    }
+]

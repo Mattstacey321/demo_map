@@ -1,0 +1,98 @@
+[
+    {
+        "districtId": 15,
+        "name": "Quận 1"
+    },
+    {
+        "districtId": 3,
+        "name": "Quận 12"
+    },
+    {
+        "districtId": 7,
+        "name": "Quận Thủ Đức"
+    },
+    {
+        "districtId": 6,
+        "name": "Quận 9"
+    },
+    {
+        "districtId": 9,
+        "name": "Quận Gò Vấp"
+    },
+    {
+        "districtId": 10,
+        "name": "Quận Bình Thạnh"
+    },
+    {
+        "districtId": 8,
+        "name": "Quận Tân Bình"
+    },
+    {
+        "districtId": 22,
+        "name": "Quận Tân Phú"
+    },
+    {
+        "districtId": 16,
+        "name": "Quận Phú Nhuận"
+    },
+    {
+        "districtId": 5,
+        "name": "Quận 2"
+    },
+    {
+        "districtId": 17,
+        "name": "Quận 3"
+    },
+    {
+        "districtId": 18,
+        "name": "Quận 10"
+    },
+    {
+        "districtId": 21,
+        "name": "Quận 11"
+    },
+    {
+        "districtId": 14,
+        "name": "Quận 4"
+    },
+    {
+        "districtId": 19,
+        "name": "Quận 5"
+    },
+    {
+        "districtId": 20,
+        "name": "Quận 6"
+    },
+    {
+        "districtId": 12,
+        "name": "Quận 8"
+    },
+    {
+        "districtId": 11,
+        "name": "Quận Bình Tân"
+    },
+    {
+        "districtId": 13,
+        "name": "Quận 7"
+    },
+    {
+        "districtId": 1,
+        "name": "Huyện Củ Chi"
+    },
+    {
+        "districtId": 2,
+        "name": "Huyện Hóc Môn"
+    },
+    {
+        "districtId": 4,
+        "name": "Huyện Bình Chánh"
+    },
+    {
+        "districtId": 23,
+        "name": "Huyện Nhà Bè"
+    },
+    {
+        "districtId": 24,
+        "name": "Huyện Cần Giờ"
+    }
+]
