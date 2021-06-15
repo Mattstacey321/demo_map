@@ -23,14 +23,14 @@ const RESOURCES = {
 "assets/assets/images/map_icon/isolation_zone.png": "1d1a603103534e3ce63c28693f21dc12",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "d5eaf3aecaa815c18d9fc8c92a115a36",
+"assets/NOTICES": "5af1937139ac64e326443086ebb891a5",
 "version.json": "e125f43cf5cebe85c99d0a3c7552fd09",
 "icons/Icon-512.png": "70dd4c7d62910514def11f21e23d99f8",
 "icons/favicon.png": "fa7fde306a35e196516bf8b1d6100f14",
 "icons/Icon-192.png": "8afa706053b186edf013b6c9880872f9",
-"index.html": "5a5c5fddcdca7d56fd3ce57321d80dfb",
-"/": "5a5c5fddcdca7d56fd3ce57321d80dfb",
-"main.dart.js": "c9c182d8da25168677e088bc3bc54c8c",
+"index.html": "8472f9d496b39ba59c19bd0a3d6e2cbc",
+"/": "8472f9d496b39ba59c19bd0a3d6e2cbc",
+"main.dart.js": "07a109a2eb823c9759f560b39554b625",
 "manifest.json": "3b4cfde24bd857d9ffbff5ba67d04bb4"
 };
 
