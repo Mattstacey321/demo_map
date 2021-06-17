@@ -8,11 +8,11 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dffd9504fcb1894620fa41c700172994",
 "assets/AssetManifest.json": "4939a12f7d8b59019e89860be3dbd7ab",
-"assets/assets/sample_data/hcm_district.json": "3e9ed74948b7afda616144b5991e0db6",
+"assets/assets/sample_data/hcm_district.json": "c6c9d9fa4809ee8c47299570e84e49dd",
 "assets/assets/sample_data/centralized_isolation.json": "aeff5a39be779f7c8bcd0a12b8a03cb5",
 "assets/assets/sample_data/cases.json": "96eda2f4f798667088c6a251fd662194",
 "assets/assets/sample_data/isolation_ward.json": "a5f0cda09ae5aa99a2b3f2c35e9e4b62",
-"assets/assets/sample_data/filter_status.json": "532d723db2d3c6987e9f6104af97fe9b",
+"assets/assets/sample_data/filter_status.json": "4b2ffddf15e2c0aa74899317cc7c5f38",
 "assets/assets/sample_data/hcm_map.json": "12a1f46f1bd63da750d47d9d28154bfe",
 "assets/assets/images/map_icon/places_patient_visited_(more_than_14_days).png": "197818cfedfc51fd82b91b41d0cbc51e",
 "assets/assets/images/map_icon/places_patient_visited_(within_14_days).png": "56d7a67506f204fccc5309291d2094ff",
@@ -28,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "70dd4c7d62910514def11f21e23d99f8",
 "icons/favicon.png": "fa7fde306a35e196516bf8b1d6100f14",
 "icons/Icon-192.png": "8afa706053b186edf013b6c9880872f9",
-"index.html": "b9e5f54828303ba4b5f4c29e0539f05b",
-"/": "b9e5f54828303ba4b5f4c29e0539f05b",
-"main.dart.js": "dbc04396d6b324fae60bfac4b3a43ae6",
+"index.html": "0e12e50cc87a2585fa24c85bd8855681",
+"/": "0e12e50cc87a2585fa24c85bd8855681",
+"main.dart.js": "ce895e0638491fb67a0ebae5cef4a68c",
 "manifest.json": "3b4cfde24bd857d9ffbff5ba67d04bb4"
 };
 

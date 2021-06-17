@@ -1,98 +1,122 @@
 [
     {
         "districtId": 15,
-        "name": "Quận 1"
+        "name_vi": "Quận 1",
+        "name_en": "District 1"
     },
     {
         "districtId": 3,
-        "name": "Quận 12"
+        "name": "Quận 12",
+        "name_en": "District 12"
     },
     {
         "districtId": 7,
-        "name": "Quận Thủ Đức"
+        "name": "Quận Thủ Đức",
+        "name_en": "Thu Duc District"
     },
     {
         "districtId": 6,
-        "name": "Quận 9"
+        "name": "Quận 9",
+        "name_en": "District 9"
     },
     {
         "districtId": 9,
-        "name": "Quận Gò Vấp"
+        "name": "Quận Gò Vấp",
+        "name_en": "Go Vap District"
     },
     {
         "districtId": 10,
-        "name": "Quận Bình Thạnh"
+        "name": "Quận Bình Thạnh",
+        "name_en": "Binh Thanh District"
     },
     {
         "districtId": 8,
-        "name": "Quận Tân Bình"
+        "name": "Quận Tân Bình",
+        "name_en": "Tan Binh District"
     },
     {
         "districtId": 22,
-        "name": "Quận Tân Phú"
+        "name": "Quận Tân Phú",
+        "name_en": "Tan Phu District"
     },
     {
         "districtId": 16,
-        "name": "Quận Phú Nhuận"
+        "name": "Quận Phú Nhuận",
+        "name_en": "Phu NNhuan District"
     },
     {
         "districtId": 5,
-        "name": "Quận 2"
+        "name": "Quận 2",
+        "name_en": "District 2"
     },
     {
         "districtId": 17,
-        "name": "Quận 3"
+        "name": "Quận 3",
+        "name_en": "District 3"
     },
     {
         "districtId": 18,
-        "name": "Quận 10"
+        "name": "Quận 10",
+        "name_en": "District 10"
     },
     {
         "districtId": 21,
-        "name": "Quận 11"
+        "name": "Quận 11",
+        "name_en": "District 11"
     },
     {
         "districtId": 14,
-        "name": "Quận 4"
+        "name": "Quận 4",
+        "name_en": "District 4"
     },
     {
         "districtId": 19,
-        "name": "Quận 5"
+        "name": "Quận 5",
+        "name_en": "District 5"
     },
     {
         "districtId": 20,
-        "name": "Quận 6"
+        "name": "Quận 6",
+        "name_en": "District 6"
     },
     {
         "districtId": 12,
-        "name": "Quận 8"
+        "name": "Quận 8",
+        "name_en": "District 8"
     },
     {
         "districtId": 11,
-        "name": "Quận Bình Tân"
+        "name": "Quận Bình Tân",
+        "name_en": "Binh Tan District"
     },
     {
         "districtId": 13,
-        "name": "Quận 7"
+        "name": "Quận 7",
+        "name_en": "District 7"
     },
     {
         "districtId": 1,
-        "name": "Huyện Củ Chi"
+        "name": "Huyện Củ Chi",
+        "name_en": "Cu Chi District"
     },
     {
         "districtId": 2,
-        "name": "Huyện Hóc Môn"
+        "name": "Huyện Hóc Môn",
+        "name_en": "Hoc Mon District"
     },
     {
         "districtId": 4,
-        "name": "Huyện Bình Chánh"
+        "name": "Huyện Bình Chánh",
+        "name_en": "Binh Chanh District"
     },
     {
         "districtId": 23,
-        "name": "Huyện Nhà Bè"
+        "name": "Huyện Nhà Bè",
+        "name_en": "Nha Be District"
     },
     {
         "districtId": 24,
-        "name": "Huyện Cần Giờ"
+        "name": "Huyện Cần Giờ",
+        "name_en": "Can Gio District"
     }
 ]

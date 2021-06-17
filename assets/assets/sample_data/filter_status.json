@@ -2,37 +2,37 @@
     {
         "id":1,
         "vi_title":"Cơ sở cách ly tập trung",
-        "en_title":"",
+        "en_title":"Isolation Ward",
         "image":"assets/images/map_icon/centralized_isolation_facility.png"
     },
     {
         "id": 2,
         "vi_title": "Khu vực cách ly y tế",
-        "en_title": "",
+        "en_title": "Centralized Isolation",
         "image": "assets/images/map_icon/centralized_isolation.png"
     },
     {
         "id": 3,
         "vi_title": "Khu vực nhà BN",
-        "en_title": "",
+        "en_title": "Patient Home",
         "image": "assets/images/map_icon/patient_home_area.png"
     },
     {
         "id": 4,
         "vi_title": "Nơi bệnh nhân đến (trong vòng 14 ngày)",
-        "en_title": "",
+        "en_title": "Place Patient Visited (within 14 days)",
         "image": "assets/images/map_icon/places_patient_visited_(within_14_days).png"
     },
     {
         "id": 5,
         "vi_title": "Nơi bệnh nhân đến (đã hơn 14 ngày)",
-        "en_title": "",
+        "en_title": "Place Patient Visited (more than 14 days)",
         "image": "assets/images/map_icon/places_patient_visited_(more_than_14_days).png"
     },
     {
         "id": 6,
         "vi_title": "Chốt kiểm soát",
-        "en_title": "",
+        "en_title": "Isolation Zone Checkpoint",
         "image": "assets/images/map_icon/isolation_zone_checkpoint.png"
     }
 ]
